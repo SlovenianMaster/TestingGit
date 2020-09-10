@@ -1,0 +1,31 @@
+before_title: 
+ <!DOCTYPE html>
+ <html>
+ <head>
+ <meta charset="UTF-8">
+ <title>
+end_head: 
+ </title>
+ </head>
+body_start: 
+ <body>
+ <h1>
+h1_end: 
+ </h1>
+ing:
+  <h2>Ingridients:</h2>
+ul_start:
+  <ul>
+ul_stop:
+ </ul>
+li_start:
+  <li>
+li_stop:
+  </li>
+p_start:
+  <p>
+p_end:
+ </p>
+finish:
+  </body>
+  </html>
